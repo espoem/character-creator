@@ -12,6 +12,11 @@
   margin-bottom: 32px;
 }
 
+.controlPane > div {
+  margin: 0 -24px -24px;
+  padding: 16px 24px;
+}
+
 .title {
   margin: 0;
   /* Optical centering */
