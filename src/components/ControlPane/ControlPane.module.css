@@ -29,3 +29,11 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+@media (max-width: 768px) {
+  .controlPane {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 0;
+  }
+}
